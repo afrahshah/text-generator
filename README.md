@@ -27,11 +27,11 @@ The Poetic Text Generator is a web application that generates poetic text based 
    cd poetic-text-generator
 
 2. **Install tenserflow , numpy, flask**
-3. 
+
   ```bash
-pip install tensorflow numpy flask
+   pip install tensorflow numpy flask
 
 3. **Run the terminal for terminal output**
 ```bash
-python main.py
+   python main.py
 
