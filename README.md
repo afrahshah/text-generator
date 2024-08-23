@@ -67,7 +67,10 @@ Go to http://localhost:3000 in your web browser.
 
 2. Generate Text:
 
-Enter the desired length of the text and the temperature (controls randomness).
-Click the "Generate Text" button to request a text generation from the Flask server.
-The generated text will be displayed on the page.
+   Enter the desired length of the text and the temperature (controls randomness).
+   Click the "Generate Text" button to request a text generation from the Flask server.
+   The generated text will be displayed on the page.
 
+## Contributing
+
+   Feel free to open issues or submit pull requests if you have suggestions or improvements for this project.
